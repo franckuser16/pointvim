@@ -1,0 +1,1 @@
+/home/franck/.vim/bundle/buftabs/buftabs.vim

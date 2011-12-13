@@ -1,0 +1,6 @@
+grep -InR "bob" *.c -> pas de binaire, marquer la ligne et récursif
+vim -nb -> netbeans
+:clist -> liste Quickfix : débugage
+:h netbeans
+vim appelé en arrière-plan au lancement de gvim
+tab erreur dans snipmate

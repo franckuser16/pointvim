@@ -1,0 +1,26 @@
+snippet beans
+	<?xml version="1.0" encoding="UTF-8"?>
+	<beans 		xmlns="http://www.springframework.org/schema/beans" 
+			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+			xsi:schemaLocation="
+				http://www.springframework.org/schema/beans
+				http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+		${1}
+
+	</beans>
+snippet bean
+	<bean id="${1:/* nom du bean*/}" class="${2:/* nom de la classe */}">
+		${3}
+	</bean>
+snippet prop
+	<property name="${1:/* nom de la prop */}" value="${2:/ * valeur */}"/>${3}
+snippet initm
+	init-method="${1}"
+snippet ctx
+	<context:component-scan base-package="${1}"/>${2}
+snippet ctxsi
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context.xsd
+snippet ctxlns
+	xmlns:context="http://www.springframework.org/schema/context" 
