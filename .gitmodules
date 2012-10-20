@@ -31,3 +31,6 @@
 [submodule "bundle/NrrwRgn"]
 	path = bundle/NrrwRgn
 	url = git://github.com/chrisbra/NrrwRgn.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
