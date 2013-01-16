@@ -52,3 +52,6 @@
 [submodule "bundle/makeshift"]
 	path = bundle/makeshift
 	url = git://github.com/johnsyweb/vim-makeshift.git
+[submodule "bundle/neocomplcache"]
+	path = bundle/neocomplcache
+	url = https://github.com/Shougo/neocomplcache.git
