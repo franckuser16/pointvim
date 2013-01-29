@@ -8,8 +8,6 @@ snippet main
 #====================================================================
 # End of Modifications
 #====================================================================
-snippet pu
-	public
 snippet st
 	static
 snippet fi
@@ -31,10 +29,6 @@ snippet sy
 	synchronized
 snippet j.u
 	java.util
-snippet j.i
-	java.io.
-snippet j.n
-	java.net.
 snippet if
 	if (${1}) ${2}
 snippet wh
@@ -53,14 +47,6 @@ snippet tc
 	public class ${1:`Filename()`} extends ${2:TestCase}
 snippet t
 	public void test${1:Name}() throws Exception ${2}
-snippet cl
-	class ${1:`Filename("", "untitled")`} ${2}
-snippet in
-	interface ${1:`Filename("", "untitled")`} ${2:extends Parent}${3}
-snippet co
-	static public final ${1:String} ${2:var} = ${3};${4}
-snippet cos
-	static public final String ${1:var} = "${2}";${3}
 #====================================================================
 # Added by Leandro Pincini < leandropincini@gmail.com >
 #
@@ -83,18 +69,6 @@ snippet action
 snippet before
 	@Before
 	static void ${1:intercept}(${2:args}) { ${3} }
-snippet debug
-	Logger.debug(${1:param});${2}
-snippet error
-	Logger.error(${1:param});${2}
-snippet rnf
-	notFound(${1:param});${2}
-snippet rnfin
-	notFoundIfNull(${1:param});${2}
-snippet rr
-	redirect(${1:param});${2}
-snippet ru
-	unauthorized(${1:param});${2}
 snippet warn
 	Logger.warn(${1:param});${2}
 #====================================================================
