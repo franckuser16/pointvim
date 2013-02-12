@@ -88,3 +88,6 @@
 [submodule "bundle/less"]
 	path = bundle/less
 	url = https://github.com/groenewege/vim-less.git
+[submodule "bundle/zen"]
+	path = bundle/zen
+	url = https://github.com/mattn/zencoding-vim.git
