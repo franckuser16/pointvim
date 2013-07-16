@@ -1,0 +1,1 @@
+/home/franck/Applications/sexy_scroller.vim/plugin/sexy_scroller.vim
