@@ -91,3 +91,6 @@
 [submodule "bundle/zen"]
 	path = bundle/zen
 	url = https://github.com/mattn/zencoding-vim.git
+[submodule "bundle/airline"]
+	path = bundle/airline
+	url = https://github.com/bling/vim-airline.git
