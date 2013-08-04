@@ -100,3 +100,6 @@
 [submodule "bundle/unimpaired"]
 	path = bundle/unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/characterize"]
+	path = bundle/characterize
+	url = https://github.com/tpope/vim-characterize.git
