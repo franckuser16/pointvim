@@ -112,3 +112,6 @@
 [submodule "bundle/jeleraJS"]
 	path = bundle/jeleraJS
 	url = https://github.com/jelera/vim-javascript-syntax.git
+[submodule "bundle/tern"]
+	path = bundle/tern
+	url = https://github.com/marijnh/tern_for_vim.git
