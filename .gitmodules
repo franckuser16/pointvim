@@ -136,3 +136,6 @@
 [submodule "bundle/handlebars"]
 	path = bundle/handlebars
 	url = https://github.com/nono/vim-handlebars.git
+[submodule "bundle/slime"]
+	path = bundle/slime
+	url = https://github.com/jpalardy/vim-slime.git
