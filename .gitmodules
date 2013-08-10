@@ -145,3 +145,6 @@
 [submodule "bundle/abolish"]
 	path = bundle/abolish
 	url = https://github.com/tpope/vim-abolish.git
+[submodule "bundle/emblem"]
+	path = bundle/emblem
+	url = https://github.com/heartsentwined/vim-emblem.git
