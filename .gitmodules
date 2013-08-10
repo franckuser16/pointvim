@@ -139,3 +139,6 @@
 [submodule "bundle/slime"]
 	path = bundle/slime
 	url = https://github.com/jpalardy/vim-slime.git
+[submodule "bundle/afterimage"]
+	path = bundle/afterimage
+	url = https://github.com/tpope/vim-afterimage.git
