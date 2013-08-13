@@ -151,3 +151,6 @@
 [submodule "bundle/js-syntax"]
 	path = bundle/js-syntax
 	url = https://github.com/jelera/vim-javascript-syntax.git
+[submodule "bundle/bbye"]
+	path = bundle/bbye
+	url = https://github.com/moll/vim-bbye.git
