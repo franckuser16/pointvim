@@ -148,3 +148,6 @@
 [submodule "bundle/emblem"]
 	path = bundle/emblem
 	url = https://github.com/heartsentwined/vim-emblem.git
+[submodule "bundle/js-syntax"]
+	path = bundle/js-syntax
+	url = https://github.com/jelera/vim-javascript-syntax.git
