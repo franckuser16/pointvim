@@ -154,3 +154,6 @@
 [submodule "bundle/bbye"]
 	path = bundle/bbye
 	url = https://github.com/moll/vim-bbye.git
+[submodule "bundle/move"]
+	path = bundle/move
+	url = https://github.com/matze/vim-move.git
