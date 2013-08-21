@@ -160,3 +160,6 @@
 [submodule "bundle/classpath"]
 	path = bundle/classpath
 	url = https://github.com/tpope/vim-classpath.git
+[submodule "bundle/coloresque"]
+	path = bundle/coloresque
+	url = https://github.com/gorodinskiy/vim-coloresque.git
