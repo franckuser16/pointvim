@@ -157,3 +157,6 @@
 [submodule "bundle/move"]
 	path = bundle/move
 	url = https://github.com/matze/vim-move.git
+[submodule "bundle/classpath"]
+	path = bundle/classpath
+	url = https://github.com/tpope/vim-classpath.git
