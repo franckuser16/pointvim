@@ -163,3 +163,6 @@
 [submodule "bundle/coloresque"]
 	path = bundle/coloresque
 	url = https://github.com/gorodinskiy/vim-coloresque.git
+[submodule "scala"]
+	path = scala
+	url = https://github.com/derekwyatt/vim-scala.git
