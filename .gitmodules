@@ -175,3 +175,6 @@
 [submodule "bundle/mustache"]
 	path = bundle/mustache
 	url = git://github.com/mustache/vim-mode.git
+[submodule "bundle/covim"]
+	path = bundle/covim
+	url = https://github.com/FredKSchott/CoVim.git
