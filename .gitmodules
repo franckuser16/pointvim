@@ -193,3 +193,6 @@
 [submodule "bundle/fireplace"]
 	path = bundle/fireplace
 	url = https://github.com/tpope/vim-fireplace.git
+[submodule "bundle/sexp"]
+	path = bundle/sexp
+	url = https://github.com/guns/vim-sexp.git
