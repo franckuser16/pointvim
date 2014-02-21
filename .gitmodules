@@ -208,3 +208,6 @@
 [submodule "bundle/markdown"]
 	path = bundle/markdown
 	url = https://github.com/tpope/vim-markdown.git
+[submodule "bundle/jdaddy"]
+	path = bundle/jdaddy
+	url = https://github.com/tpope/vim-jdaddy.git
