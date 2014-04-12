@@ -205,3 +205,6 @@
 [submodule "bundle/jdaddy"]
 	path = bundle/jdaddy
 	url = https://github.com/tpope/vim-jdaddy.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git://github.com/SirVer/ultisnips.git
