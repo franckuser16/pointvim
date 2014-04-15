@@ -214,3 +214,6 @@
 [submodule "bundle/unite-tag"]
 	path = bundle/unite-tag
 	url = https://github.com/tsukkee/unite-tag.git
+[submodule "bundle/unite-quickfix"]
+	path = bundle/unite-quickfix
+	url = https://github.com/osyo-manga/unite-quickfix.git
