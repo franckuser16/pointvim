@@ -223,3 +223,6 @@
 [submodule "bundle/unicode"]
 	path = bundle/unicode
 	url = https://github.com/chrisbra/unicode.vim.git
+[submodule "bundle/exchange"]
+	path = bundle/exchange
+	url = https://github.com/tommcdo/vim-exchange.git
