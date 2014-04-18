@@ -220,3 +220,6 @@
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "bundle/unicode"]
+	path = bundle/unicode
+	url = https://github.com/chrisbra/unicode.vim.git
