@@ -157,9 +157,6 @@
 [submodule "bundle/instantMarkdown"]
 	path = bundle/instantMarkdown
 	url = https://github.com/suan/vim-instant-markdown.git
-[submodule "bundle/jasmine"]
-	path = bundle/jasmine
-	url = https://github.com/claco/jasmine.vim.git
 [submodule "bundle/clojure-static"]
 	path = bundle/clojure-static
 	url = https://github.com/guns/vim-clojure-static.git
