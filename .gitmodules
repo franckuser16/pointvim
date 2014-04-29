@@ -226,3 +226,6 @@
 [submodule "bundle/jsLibrariesSyntax"]
 	path = bundle/jsLibrariesSyntax
 	url = https://github.com/othree/javascript-libraries-syntax.vim.git
+[submodule "bundle/sparkup"]
+	path = bundle/sparkup
+	url = https://github.com/rstacruz/sparkup.git
