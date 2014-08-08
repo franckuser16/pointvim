@@ -69,7 +69,7 @@
 	url = https://github.com/groenewege/vim-less.git
 [submodule "bundle/zen"]
 	path = bundle/zen
-	url = https://github.com/mattn/zencoding-vim.git
+	url = https://github.com/mattn/emmet-vim
 [submodule "bundle/airline"]
 	path = bundle/airline
 	url = https://github.com/bling/vim-airline.git
