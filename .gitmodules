@@ -232,3 +232,6 @@
 [submodule "bundle/indentGuides"]
 	path = bundle/indentGuides
 	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "bundle/browserlink"]
+	path = bundle/browserlink
+	url = https://github.com/jaxbot/browserlink.vim.git
