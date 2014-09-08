@@ -235,3 +235,6 @@
 [submodule "bundle/browserlink"]
 	path = bundle/browserlink
 	url = https://github.com/jaxbot/browserlink.vim.git
+[submodule "bundle/epub"]
+	path = bundle/epub
+	url = https://github.com/etnadji/vim-epub
