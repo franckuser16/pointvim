@@ -241,3 +241,6 @@
 [submodule "bundle/jsLibSyntax"]
 	path = bundle/jsLibSyntax
 	url = https://github.com/othree/javascript-libraries-syntax.vim.git
+[submodule "bundle/Ag"]
+	path = bundle/Ag
+	url = https://github.com/rking/ag.vim.git
