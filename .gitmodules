@@ -244,3 +244,6 @@
 [submodule "bundle/Ag"]
 	path = bundle/Ag
 	url = https://github.com/rking/ag.vim.git
+[submodule "bundle/minimap"]
+	path = bundle/minimap
+	url = https://github.com/severin-lemaignan/vim-minimap.git
