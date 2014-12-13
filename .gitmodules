@@ -247,3 +247,6 @@
 [submodule "bundle/minimap"]
 	path = bundle/minimap
 	url = https://github.com/severin-lemaignan/vim-minimap.git
+[submodule "bundle/zeal"]
+	path = bundle/zeal
+	url = https://github.com/KabbAmine/zeavim.vim.git
