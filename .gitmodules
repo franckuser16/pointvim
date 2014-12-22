@@ -190,10 +190,6 @@
 	path = bundle/instantMarkdown
 	url = https://github.com/suan/vim-instant-markdown.git
 	ignore = untracked
-[submodule "bundle/clojure-static"]
-	path = bundle/clojure-static
-	url = https://github.com/guns/vim-clojure-static.git
-	ignore = untracked
 [submodule "bundle/sexp"]
 	path = bundle/sexp
 	url = https://github.com/guns/vim-sexp.git
