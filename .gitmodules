@@ -170,10 +170,6 @@
 	path = bundle/classpath
 	url = https://github.com/tpope/vim-classpath.git
 	ignore = untracked
-[submodule "bundle/coloresque"]
-	path = bundle/coloresque
-	url = https://github.com/gorodinskiy/vim-coloresque.git
-	ignore = untracked
 [submodule "bundle/coffee-script"]
 	path = bundle/coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
