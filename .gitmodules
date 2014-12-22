@@ -182,10 +182,6 @@
 	path = bundle/instantMarkdown
 	url = https://github.com/suan/vim-instant-markdown.git
 	ignore = untracked
-[submodule "bundle/sexp"]
-	path = bundle/sexp
-	url = https://github.com/guns/vim-sexp.git
-	ignore = untracked
 [submodule "bundle/speeddating"]
 	path = bundle/speeddating
 	url = https://github.com/tpope/vim-speeddating.git
