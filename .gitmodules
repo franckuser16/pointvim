@@ -61,9 +61,6 @@
 [submodule "bundle/seek"]
 	path = bundle/seek
 	url = https://github.com/goldfeld/vim-seek.git
-[submodule "bundle/less"]
-	path = bundle/less
-	url = https://github.com/groenewege/vim-less.git
 [submodule "bundle/zen"]
 	path = bundle/zen
 	url = https://github.com/mattn/emmet-vim
