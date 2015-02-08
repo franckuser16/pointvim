@@ -118,10 +118,6 @@
 	path = bundle/tbone
 	url = https://github.com/tpope/vim-tbone.git
 	ignore = untracked
-[submodule "bundle/niji"]
-	path = bundle/niji
-	url = https://github.com/amdt/vim-niji.git
-	ignore = untracked
 [submodule "bundle/unite"]
 	path = bundle/unite
 	url = https://github.com/Shougo/unite.vim.git
