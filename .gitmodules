@@ -282,3 +282,6 @@
 	path = bundle/zeal
 	url = https://github.com/KabbAmine/zeavim.vim.git
 	ignore = untracked
+[submodule "bundle/indentwise"]
+	path = bundle/indentwise
+	url = git://github.com/jeetsukumaran/vim-indentwise.git
