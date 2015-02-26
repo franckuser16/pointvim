@@ -285,3 +285,6 @@
 [submodule "bundle/indentwise"]
 	path = bundle/indentwise
 	url = git://github.com/jeetsukumaran/vim-indentwise.git
+[submodule "diffEnhanced"]
+	path = diffEnhanced
+	url = https://github.com/chrisbra/vim-diff-enhanced.git
