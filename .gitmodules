@@ -288,3 +288,6 @@
 [submodule "bundle/diffEnhanced"]
 	path = bundle/diffEnhanced
 	url = https://github.com/chrisbra/vim-diff-enhanced.git
+[submodule "bundle/over"]
+	path = bundle/over
+	url = https://github.com/osyo-manga/vim-over.git
