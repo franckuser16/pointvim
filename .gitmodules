@@ -291,3 +291,6 @@
 [submodule "bundle/over"]
 	path = bundle/over
 	url = https://github.com/osyo-manga/vim-over.git
+[submodule "bundle/targets"]
+	path = bundle/targets
+	url = https://github.com/wellle/targets.vim.git
