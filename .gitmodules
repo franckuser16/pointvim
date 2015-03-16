@@ -294,3 +294,6 @@
 [submodule "bundle/targets"]
 	path = bundle/targets
 	url = https://github.com/wellle/targets.vim.git
+[submodule "editorconfig"]
+	path = editorconfig
+	url = https://github.com/editorconfig/editorconfig-vim.git
