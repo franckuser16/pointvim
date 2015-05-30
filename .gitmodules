@@ -312,3 +312,6 @@
 [submodule "bundle/jsx"]
 	path = bundle/jsx
 	url = https://github.com/mxw/vim-jsx.git
+[submodule "bundle/esformatter"]
+	path = bundle/esformatter
+	url = https://github.com/millermedeiros/vim-esformatter.git
