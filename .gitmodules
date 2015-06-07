@@ -315,3 +315,6 @@
 [submodule "bundle/esformatter"]
 	path = bundle/esformatter
 	url = https://github.com/millermedeiros/vim-esformatter.git
+[submodule "bundle/rest-console"]
+	path = bundle/rest-console
+	url = https://github.com/diepm/vim-rest-console.git
