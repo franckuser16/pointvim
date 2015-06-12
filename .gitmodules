@@ -318,3 +318,15 @@
 [submodule "bundle/rest-console"]
 	path = bundle/rest-console
 	url = https://github.com/diepm/vim-rest-console.git
+[submodule "bundle/peekaboo"]
+	path = bundle/peekaboo
+	url = https://github.com/junegunn/vim-peekaboo.git
+[submodule "limelight"]
+	path = bundle/limelight
+	url = https://github.com/junegunn/limelight.vim.git
+[submodule "goyo"]
+	path = bundle/goyo
+	url = https://github.com/junegunn/goyo.vim.git
+[submodule "bundle/easy-align"]
+	path = bundle/easy-align
+	url = https://github.com/junegunn/vim-easy-align.git
